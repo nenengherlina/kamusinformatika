@@ -1,3 +1,4 @@
+Z Modem - Protokol yang biasa digunakan untuk mentransfer file antar dua komputer yang dihubungkan oleh serial line. Lihat juga : Protocol
 Z Buffer - Area dari memori grafis yang digunakan untuk menyimpan Z atau kedalaman informasi atau objek yang digambar. Nilai Z-buffer sebuah pixel digunakan untuk menentukan apakah ia terletak di belakang atau di depan pixel lainnya. Kalkulasi Z mencegah objek pada background menimpa objek yang berada di depannya dalam frame buffer.
 Zip - ZIP merupakan format kompresi yang umum digunakan di dunia MS-DOS dan Windows. Beberapa berkas dapat digabungkan menjadi satu dan dikecilkan ukurannya dalam satu berkas ZIP (zip file). Ada beberapa program untuk memanipulasi berkas ZIP ini, antara lain:    PKZIP dan PKUNZIP (shareware untuk MS-DOS)   WinZip (untuk Windows 95)   zip dan unzip (gratis untuk UNIX)
 ZIP socket - ZIP (Zero Insertion Force socket) Sebuah tipe socket yang didesain agar mudah dimasuki chip PGA.
@@ -7,6 +8,84 @@ Xabre - Chipset grafis dari SiS yang mendukung penuh AGP 8x dan DirectX. Chip in
 XML - XML (Extensible Markup Language) XML termasuk  dalam keluarga  Markup Language  seperti halnya HTML atau WML. Namun dengan XML, kita bisa mendefinisikan custom tag sendiri.
 XMMS - XMMS (X Multimedia System) Sebuah player untuk format MP3, WAV, MOD, dan format lainnya yang bisa digunakan pada sistem operasi Linux.
 X Terminal - Sebuah terminal yang memakai antar muka pemakai grafis X. Antarmuka ini membolehkan kita untuk membuka banyak sekali jendela di layar dan melaksanakan semua jenis pekerjaan dalam waktu yang bersamaan. X terminal popular di dunia UNIX.
+
 WAIS - WAIS (Wide Area Information Servers) Sistem yang membolehkan untuk melacak dokumen yang memuat informasi yang sedang dicari.
 WAN - WAN (Wide Area Network) Jaringan komputer jarak jauh yang  meliputi negara atau benua.
-WAP - WAP (Wireless Application Protocol) Merupakan standar protokol untuk aplikasi wireless (seperti yang digunakan handphone). WAP merupakan hasil kerjasama antara industri untuk membuat sebuah standar yang terbuka (open standard). WAP berbasis pada standar Internet, dan beberapa protokol yang sudah dioptimasi untuk lingkungan wireless, seperti kebutuhan kompresi data, long latency dan keterbatasan bandwith, serta keterbatasan perangkat wireless. Disain dari informasi yang dikirimkan  melalui WAP biasanya menggunakan format WML (Wireless Markup Language). WML ini mirip HTML, hanya lebih spesifik untuk perangkat wireless yang memiliki keterbatasan seperti di atas.
+WAP - WAP (Wireless Application Protocol) Merupakan standar protokol untuk aplikasi wireless (seperti yang digunakan handphone). 
+Warez - Sebutan bagi pembajak software di Internet.
+Warm Boot - Me-restart komputer dengan menekan Ctrl+Alt+Del atau melakukan shutdown dan restart. Booting panas ini dapat dideteksi dan dimanipulasi oleh virus, sehingga virus yang tinggal dalam memori tetap berada di memori
+WBMP (Wireless Bitmap) - Format grafik yang terdapat dalam WAP. WBMP merupakan format yang  mirip dengan format BMP. Gambar dengan standar format WBMP terbagi dalam dua bagian, yaitu :   Bagian header, tempat untuk informasi karakteristik dari gambar, seperti tinggi, lebar dan type gambar.   Bagian isi yang disebut  Type dependent,  merupakan bagian dari informasi gambar.
+White Hat - Hacker yang lebih memanfaatkan pengetahuan mereka untuk memuaskan rasa ingin tahu bagi  intelektualitas ketimbang untuk perbuatan jahat yang merusak. Hacker seperti ini sangat anti dengan perusakan sebuah system,  pencurian data maupun merusak kinerja sebuah situs.
+Whois - Perintah pada beberapa sistem yang menjelaskan nama seseorang yang sesungguhnya, yang didasarkan pada nama pemakai orang itu. Whois dapat dipakai melalui World Wide Web.
+WinSock - Kependekan  dari Windows Sockets yaitu suatu cara standar bagi program-program Windows untuk bekerja dengan TCP/IP. Dipakai bila dihubungkan dengan PC Windows secara langsung ke  Internet, entah dengan suatu  hubungan  permanen  ataupun  dengan sebuah modem memakai SLIP atau PPP.
+Wireless LAN - (Wireless Local Area Network) Teknologi komunikasi data dengan tidak menggunakan kabel untuk menghubungkan antara klien dan server. Secara umum teknologi Wireless LAN hampir sama dengan teknologi jaringan komputer yang menggunakan kabel (Wire LAN atau Local Area Network). Teknologi Wireless LAN ada yang menggunakan frekuensi radio untuk mengirim dan menerima data yang tentunya mengurangi  kebutuhan atau ketergantungan  hubungan melalui kabel. 
+Wizard - Sebuah fungsi pada software termasuk office yang memungkinkan untuk merancang sebuah dokumen secara mudah, langkah demi langkah.
+WWW - Singkatan dari World Wide Web.
+WTSL - Singkatari dari Wireless Transport-Layer Security.
+WSP - Singkatan dari Wireless Service Provider.
+WS - Top level domain (TLD) dari negara Western Samoa.
+Wrist rest - Bantalan kecil yang diletakkan di bawah keyboard untuk meletakkan pergelangan tangan.
+AXP - Singkatan dari Associative Crosspoint Processor.
+Axis - Kata dari bahsa Inggris yang berarti poros, as, sendiri, sumbu.
+AVS - Singkatan dari Automatic Verification System.
+AVISAM - Singkatan dari Average Indexed Sequential Access Methoad.
+Available bit rate - Disingkat dengan ABR. ABR merupakan adanta data yang ditransfer untuk setiap detiknya. Lihat juga : Bit rate, Variable bit rate, Constant bit rate, Unspecified bit rate
+AVA - Singkatan dari Absolute Virtual Address.
+Aytonomus System - Sebuah koleksi end-System routers yang di bawah kendali sebuah management atau athority tunggal. Sistem ini biasanya memakai sebuah Interior Gateway Protocol (IGP).
+Automation object - Sebuah objek yang memperagakan dirinya untuk aplikasi lainnya atau digunakan oleh tools dari suatu bahasa pemrograman untuk menembus Interface tersebut secra otomatis.
+Button - Merupakan visualisasi tombol yang ada pada layar monitor anda. Pada saat anda meng-klik tombol tersebut (dengan menggunakan mouse) maka akan sesuatu terjadi.
+Busy Waiting - Kondisi memeriksa variable terus menerus, menunggu sampai suatu nilai muncul.
+Business rules - Sutau aturan dan prosedur yang diterjemahkan kedalam sistem di komputer. Istilah ini juga dikenal dengan business logic. Lihat juga :Business logic
+Bus Topology - Salah satu bentuk topologi jaringan. Semua simpul (node) memiliki kedudukan sama. Apabila salah satu simpul mengalami kerusakan maka sistem jaringan tidak akan terganggu. Lihat juga : Topology
+Bus Data - 
+Bus data - Jalur data yang dilalui informasi ke dan dari mkroprosesor.
+Bulk storage - Media penyimpanan data yang dapat mempertahankan (menyimpan data) dalam waktu yang lama dan kapasitas yang tinggi.
+Cyclunder Head Sector - Adalah cara konvensional untuk pengalamatan sector pada harddisk.
+Cylinder - Serangkaian track yang tergabuang dalam sebuah disk. Terdapat banyak pusak silinder sebagai track di atas satu disk.
+Cycle Time - Waktu yang dibutuhkan CPU untuk melalui satu kali operasi secara lengkap.
+Cycle Stealling - Menunda operasi CPU untuk sebuah siklus operasi dalam urutan untuk memberikan waktu menyelesaikan beberapa proses yang lamban.
+Cybermatrics - Ilmu yang mempelajari komunikasi dan pengendalian dalam sistem penanganan informasi.
+Cyber law - Istilah yang digunakan untuk merujuk pada hukum yang tumbuh dalam medium cyberspace.
+Cyber Cafe - Istilah untuk menggambarkan area terbuka untuk semua pengguna dalam Internet.
+Cyber - Istilah yang digunaka orang untuk menyatakan sesuatu yang berhubungan dengan internet atau {dunia maya}.
+Cybermatrics - Ilmu yang mempelajari komunikasi dan pengendalian dalam sistem penanganan informasi.
+Cybercrime - Kejahatan di dunia cyber. Kejahatan ini terdiri dari bermacam-macam kegiatan seperti pengrusakan informasi suatu situs, penggunaan kartu kredit secara ilegal, pencurian informasi, penipuan dengan menggunakan email, dll.
+Cyber Crime - Kejahatan didunia maya atau di internet.
+Cutover - Metode penggantian sistem menyeluruh sekaligus.
+Cut - Memotong, menggunting, menghapus Menghilangkan sebuah obyek (teks atau gambar) dari layar monitor dan menyimpanya ke dalam clipboard.
+Customer Support Page - Lembaran dalam dokumen WEB yang berisi bantuan pemakaian bagi pengguna internet yang mengakses WEB yang bersangkutan.
+Customer Support - Disingkat CS. Dukungan untuk para pelanggan dari suatu perusahaan terhadap layanan yang diberikan.
+Dynamic Random Access Memory - Disingkat dengan DRAM. Sejenis memori komputer yang sangat populer di dalam komputer peribadi (PC).
+Dynamic memory - Media penyimpanan data yang menepatkan datanya secara dinamis.
+Dynamic master file - File induk dinamis. File induk yang recordnya sering mengalami perubahan atau dimutakhirkan sebagai akibat dari suatu proses/transaksi.
+Dynamic Link Library - File yang berisi modul-modul Windows yang telah dikompilasi.
+Dynamic Host Configuration Protocol - Sistem yang dipakai oleh ISP yang secara otomatis memberikan alamat IP baru bagi komputer setiap kali pengguna melakukan login.
+Dynamic Data Exchange - Disingkat dengan DDE. Istilah asli dari DDE ini adalah Dynamic Data Linking (DDL), yaitu sebuah hotlink protocol pada Microsoft Windows yang memperbolehkan application program dapat berkomunikasi dalam client-server model.
+Dynamic boost - Komponen pendukung yang mensupport kualitas suara yang dihasilkan olehsebuah alat audio elektronik
+Dynamic Adaptive Routing - Pengaturan lintasan komunikasi secara otomatis yang berdasar pada kondisi jaringan aktif saat itu.
+Dynamic Address Transistor - Hardware dalam system virtual memory yang akan melakukan pengenalan alamat virtual secara otomatis. Pengenalan berdasarkan pada nomor segment, nomor baris dalam segment dan letak record.
+DWDM - Singkatan dari Dense Wavelength Division Multiplexing.
+DVD ROM - Singkatan dari Digital Versatile Disk Read Only Memory
+DVD - Singkatan dari Digital Versatile Disk
+DVD ROM Drive - Perangkat komputer yang berfungsi srbagai pembaca data pada DVD. Perangkat ini memiliki bentuk fisik sama persis seperti CD ROM Drive, akan tetapi memiliki fungsi yang berbeda.
+FEC Errors - jumlah error yang muncul selama menerima data
+Extranet - penerapan teknoligi internet dalam ruang lingkup beberapa perusahaan yang merupakan mitra satu sama lain dengan tujuan untuk meningkatkan produktivitas kerja di antara para karyawan dan penyebaran informasi.
+Extract - ekstrak, kutipan, mencopot, bantun, mencabutkan, memecah
+External storage - media penyimpanan yang berada di luar memori utama, seperti harddisk, disket, CD dan sebagainya. lihat : storage
+External security - keamanan eksternal. berkaitan dengan pengamanan fasilitas komputer dari penyusup dan bencana seperti kebakaran atau kebanjiran.
+External memory - simpanan luar, karena terletak di luar alat proses
+External Interrupt - interupsi yang berasal dari luar sistem komputer, misalnya dari operator ataupun dari peralatan ekternal.
+External fragmetation - partisi dapat tidak digunakan karena ukuran partisi lebih kecil dibanding ukuran proses yang menunggu di antrian, sehingga tidak digunakan
+External Files - file yang tidak langsung diambil oleh browser seperti beberapa format gambar, suara, video, dan file program lainnya. lihat juga : file, browser
+External Device Control - kemampuan dari peralatan eksternal untuk melakukan interupsi selama mengerjakan tugas.
+Future tools - Alat bantu yang digunakan masih dalam tahap uji coba dan pengembangan agar lebih sempurna.
+Functional Unit - Bagian komputer yang dibutuhkan pada pembentukan proses dasar, rnisalnya pembuatan pulsa.
+Functional Switching Circuit - Sirkuit dengan kegunaan tertentu yang menggunakan fungsi logika dan blok dasar sistem pengalih sinyal, misalnya sirkuit AND dan OR.
+Functional Keys - Kunci tambahan di keyboard, yaitu tombol-tombol Fi, F2, F3, F4 sampai F12. Dipakai untuk mewakili operasi-operasi yang membutuhkan penekanan banyak kunci jika dilakukan dengan cara biasa.
+Functional Generator - Pembangkit sinyal yang memungkinkan pengguna untuk memilih satu dan beberapa macam bentuk gelombang.
+Function Key -Tombol F1..F12 pada keyboard. lihat juga : Keyboard
+FTP client - Program atau software yang digunakan untuk menjalankan FTP.
+FTP - Singkatan dan File Transfer Protocol.
+FTAP - Singkatan dan File Transfer Access Method.
+FSP -  merupakan cara un meridistribusikan berkas seperti FTP. Perbedaannya, FSP menggunakan metode yang {connection-less} dan { state-less) yang diimplementasikan dengan paket UDP.
+FrontPage - Software untuk pengembangan Web (progam pembantu untuk membuat dokumen HTML) dan Microsoft.

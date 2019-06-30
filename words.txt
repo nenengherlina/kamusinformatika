@@ -83,7 +83,7 @@ Functional Unit - Bagian komputer yang dibutuhkan pada pembentukan proses dasar,
 Functional Switching Circuit - Sirkuit dengan kegunaan tertentu yang menggunakan fungsi logika dan blok dasar sistem pengalih sinyal, misalnya sirkuit AND dan OR.
 Functional Keys - Kunci tambahan di keyboard, yaitu tombol-tombol Fi, F2, F3, F4 sampai F12. Dipakai untuk mewakili operasi-operasi yang membutuhkan penekanan banyak kunci jika dilakukan dengan cara biasa.
 Functional Generator - Pembangkit sinyal yang memungkinkan pengguna untuk memilih satu dan beberapa macam bentuk gelombang.
-Function Key -Tombol F1..F12 pada keyboard. lihat juga : Keyboard
+Function Key - Tombol F1..F12 pada keyboard. lihat juga : Keyboard
 FTP client - Program atau software yang digunakan untuk menjalankan FTP.
 FTP - Singkatan dan File Transfer Protocol.
 FTAP - Singkatan dan File Transfer Access Method.
